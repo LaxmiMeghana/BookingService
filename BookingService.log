@@ -1,0 +1,73 @@
+INFO  02:34:52 Application started. Press Ctrl+C to shut down.
+INFO  02:34:52 Application started. Press Ctrl+C to shut down.
+INFO  02:34:52 Hosting environment: Development
+INFO  02:34:52 Hosting environment: Development
+INFO  02:34:52 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  02:34:52 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  02:35:17 Get BookingDetails by Id 
+INFO  03:17:55 Application started. Press Ctrl+C to shut down.
+INFO  03:17:55 Application started. Press Ctrl+C to shut down.
+INFO  03:17:55 Hosting environment: Development
+INFO  03:17:55 Hosting environment: Development
+INFO  03:17:55 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  03:17:55 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  03:19:12 Application started. Press Ctrl+C to shut down.
+INFO  03:19:12 Application started. Press Ctrl+C to shut down.
+INFO  03:19:12 Hosting environment: Development
+INFO  03:19:12 Hosting environment: Development
+INFO  03:19:12 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  03:19:12 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  03:56:36 Application started. Press Ctrl+C to shut down.
+INFO  03:56:36 Application started. Press Ctrl+C to shut down.
+INFO  03:56:36 Hosting environment: Development
+INFO  03:56:36 Hosting environment: Development
+INFO  03:56:36 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  03:56:36 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  03:56:53 Get BookingDetails by Id 
+INFO  05:02:22 Application started. Press Ctrl+C to shut down.
+INFO  05:02:22 Application started. Press Ctrl+C to shut down.
+INFO  05:02:22 Hosting environment: Development
+INFO  05:02:22 Hosting environment: Development
+INFO  05:02:22 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  05:02:22 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  05:23:46 Application started. Press Ctrl+C to shut down.
+INFO  05:23:47 Application started. Press Ctrl+C to shut down.
+INFO  05:23:47 Hosting environment: Development
+INFO  05:23:47 Hosting environment: Development
+INFO  05:23:47 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  05:23:47 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  05:26:19 Get BookingDetails by Id 
+INFO  05:29:54 Get BookingDetails by Id 
+INFO  05:39:58 Application started. Press Ctrl+C to shut down.
+INFO  05:39:58 Application started. Press Ctrl+C to shut down.
+INFO  05:39:58 Hosting environment: Development
+INFO  05:39:58 Hosting environment: Development
+INFO  05:39:58 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  05:39:58 Content root path: C:\Users\perap\source\repos\TruYum\BookingService
+INFO  05:42:54 Get BookingDetails by Id 
+INFO  06:30:05 Booking Details Getting Added
+ERROR 06:30:07 Error in Adding Booking Details
+INFO  06:30:07 Booking Details Getting Added
+ERROR 06:30:07 Error in Adding Booking Details
+INFO  06:30:11 Get BookingDetails by Id 
+INFO  06:30:34 Booking Details Getting Added
+ERROR 06:30:34 Error in Adding Booking Details
+INFO  06:30:37 Get BookingDetails by Id 
+INFO  06:32:41 Booking Details Getting Added
+ERROR 06:32:41 Error in Adding Booking Details
+INFO  06:32:48 Get BookingDetails by Id 
+INFO  07:04:03 Booking Details Getting Added
+ERROR 07:04:03 Error in Adding Booking Details
+INFO  07:04:06 Get BookingDetails by Id 
+INFO  07:07:53 Get BookingDetails by Id 
+INFO  07:21:43 Booking Details Getting Added
+ERROR 07:21:43 Error in Adding Booking Details
+INFO  07:21:46 Get BookingDetails by Id 
+INFO  07:28:22 Booking Details Getting Added
+ERROR 07:28:22 Error in Adding Booking Details
+INFO  07:28:27 Get BookingDetails by Id 
+INFO  07:30:45 Booking Details Getting Added
+ERROR 07:30:45 Error in Adding Booking Details
+INFO  07:37:41 Get BookingDetails by Id 
+INFO  07:41:44 Booking Details Getting Added
+ERROR 07:41:45 Error in Adding Booking Details
